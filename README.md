@@ -11,6 +11,7 @@
 <h4>~Download the carver.c and def.h and compile it with gcc</h4>
 <h4>~run it with, {your_comipiled_binary}.exe  {name of the disk image}  {destination_of_images_carved_and_reconstructed}</h4>
 
+------------------------------------------------------------------------------------------------------------------
 <h3>File types supported in current version</h3>
 ~ PNG
 
