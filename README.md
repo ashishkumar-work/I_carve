@@ -1,4 +1,4 @@
-# I_carve
+# I_carve (more user friendly and stable version will be released soon)
 
 ![I_carve](https://github.com/ashishkumar-work/I_carve/blob/main/i_carve.png)
 
