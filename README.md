@@ -9,11 +9,12 @@
 <h2>Usage</h2>
 <h4>~ Make a disk image of the storage you want to carve, tools like FTK imager, dc3dd or any disk image creator can be used for this step</h4>
 <h4>~Download the carver.c and def.h and compile it with gcc</h4>
-<h4>~run it with, <code>{your_comipiled_binary}.exe  {name of the disk image} {destination_of_images_carved_and_reconstructed}</code></h4>
+<h4>~run it with, <code>{your_comipiled_binary}.exe  {name of the disk image} {destination_of_images_carved_and_reconstructed} {file_type}</code></h4>
 
 ------------------------------------------------------------------------------------------------------------------
 <h3>File types supported in current version</h3>
 ~ PNG
+~ JPG/JPEG
 
 -----------------------------------------------------------------------------------------------------------------
 
